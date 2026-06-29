@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shafvan4136.github.io/portfolio/sitemap.xml
